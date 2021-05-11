@@ -1,2 +1,2 @@
-FROM aravind-rnd/webapp 
+FROM hastatic:latest 
 ADD . /var/www/html
